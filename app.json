@@ -11,12 +11,12 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "0,447405935255"
+            "value": "917605893554"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
 	"AUTOREAD": {
             "description": "Autoread active or off",
@@ -71,7 +71,7 @@
     "SUDO": {
             "description": "Add superuser to this bot",
             "required": false,
-            "value": "0,447405935255"
+            "value": "917605893554"
         }, 
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
@@ -111,17 +111,17 @@
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/s__u_r_a_j__i_t/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "SURAY 0P"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "SURYA 0P"
         },
     "HEROKU_APP_NAME": {
             "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
