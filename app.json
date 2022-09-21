@@ -1,8 +1,8 @@
 
 {
 	"name": "WhatsAppBot-MD",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"description": "Fully Costamisable Bot by, Toxic-Surya.",
+	"repository": "https://github.com/akash20044/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
 	"keywords": ["multi-device","WhatsApp Bot"],
@@ -55,8 +55,8 @@
         },
     "PROFILE_IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "required": true,
+            "value": "https://avatars.githubusercontent.com/u/113271427?v=4"
         },
     "URL_IMAGE": {
             "description": "Image For The Adplay (leave it if you Wish to use the default)",
@@ -65,7 +65,7 @@
         },
     "GREETING": {
             "description": "Greeting Message (leave it if you Wish to use the default)",
-            "required": false,
+            "required": true,
             "value": "Hey  👋🏻"
         },
     "SUDO": {
@@ -81,12 +81,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "T O X I C  S U R Y A"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "T O X I C  S U R Y A"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -96,7 +96,7 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "iamsurajit567@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
@@ -106,7 +106,7 @@
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/akash20044/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
@@ -157,7 +157,7 @@
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://avatars.githubusercontent.com/u/113271427?v=4"
         },
     "LITE_MODE": {
             "description": "Use Fancy Templayes Rather Than Normal Messages",
